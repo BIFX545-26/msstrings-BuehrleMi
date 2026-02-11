@@ -1,0 +1,15 @@
+Package: MSstrings
+Title: Parse and display amino acid sequences
+Version: 0.1
+Authors@R: 
+    person("Michelle", "Buehrle", , "mab31@hood.edu", role = c("aut", "cre"))
+Description: This package parses and displays amino acid sequences from Spectronaut data.
+License: MIT + file LICENSE
+Imports:
+ Biostrings,
+ dplyr,
+ purrr,
+ stringr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
