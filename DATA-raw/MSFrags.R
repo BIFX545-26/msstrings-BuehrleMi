@@ -5,7 +5,7 @@ library(UniProt.ws)
 library(Biostrings)
 library(stringr)
 
-seqs<- queryUniProt (`P51681`, `sequence`)$Sequence
+seqs<- queryUniProt ('P51681', 'sequence')$Sequence
 
 # cut points (plus the end of the sequence)
 # could be at anginine or lysine
