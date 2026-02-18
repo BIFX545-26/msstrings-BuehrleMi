@@ -1,11 +1,10 @@
 ---
-title: "MSstrings""
+title: "MSstrings"
 format: gfm
 editor: visual
-
 ---
 
-MSSstrings is a package that will read in Spectronaut-formatted peptides with or without proten modifications and display them nicely.
+MSstrings is a package that will read in Spectronaut-formatted peptides with or without proten modifications and display them nicely.
 
 INSTALLATION
 
@@ -13,7 +12,7 @@ MSStrings can be installed from GitHub using the following command:
 
 ```{r}
 #| eval: false
-devtools::install_github('BIFX545-26/msstrings-BuehrleMi')
+devtools::install_github('BIFX545-26/msstrings-johnsonra')
 ```
 
 EXAMPLE
