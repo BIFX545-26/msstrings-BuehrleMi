@@ -4,7 +4,7 @@ format: gfm
 editor: visual
 ---
 
-MSstrings is a package that will read in Spectronaut-formatted peptides with or without proten modifications and display them nicely.
+MSstrings is a package that will read in Spectronaut-formatted peptides with or without protein modifications and display them nicely.
 
 INSTALLATION
 

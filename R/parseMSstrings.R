@@ -9,7 +9,7 @@
 #' 
 #' @returns A 'protein_mods` object with processed sequences
 #' @export
-#' @importFrom Biostrings AAStringset
+#' @importFrom Biostrings AAStringSet
 #' @importFrom dplyr tibble
 #' @importFrom purrr map map_chr
 #' @importFrom stringr fixed str_extract_all str_replace str_replace_all str_split

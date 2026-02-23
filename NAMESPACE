@@ -2,6 +2,7 @@
 
 S3method(print,protein_mods)
 export(parse_mods)
+importFrom(Biostrings,AAStringSet)
 importFrom(dplyr,tibble)
 importFrom(purrr,map)
 importFrom(purrr,map_chr)
